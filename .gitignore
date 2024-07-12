@@ -1,0 +1,5 @@
+# ignoriraj foldere i fileove
+
+env/
+
+__pycache__/
